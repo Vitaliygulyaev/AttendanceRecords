@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AttendanceRecords</string>
+    <string name="Start">СТАРТ</string>
+    <string name="Stop">СТОП</string>
+    <string name="InsertToDB">Добавить в отчет</string>
+    <string name="handMade">Куда ездил? Че делал?</string>
+    <string name="checkDinner">Ты хоть покушал? Или работал на результат?</string>
+    <string name="dbUpdate">Записать в отчет</string>
+</resources>
